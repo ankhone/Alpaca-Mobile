@@ -12,7 +12,7 @@
     "lodash": "^4.17.11",
     "moment-timezone": "^0.5.23",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-animated-ellipsis": "1.1.0",
     "react-native-check-box": "^2.1.7",
     "react-native-dismiss-keyboard": "^1.0.0",
