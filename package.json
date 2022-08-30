@@ -10,7 +10,7 @@
   "dependencies": {
     "apisauce": "0.14.3",
     "lodash": "^4.17.11",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "react": "16.8.3",
     "react-native": "0.59.10",
     "react-native-animated-ellipsis": "1.1.0",
